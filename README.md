@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Łukasz Czaja
-- 👀 I’m interested in football, politics and of course programming
-- 🌱 I’m currently studying computer science at GUT (second year)
-- 💞️ I’m looking for and internship
+- 👀 I’m interested in football, economy and i really like dancing 
+- 🌱 I’m currently studying computer science at GUT (third year)
+- 💞️ I’m looking for an internship
 - 📫 You can contact me by email: czajalukasz5@gmail.com or on [Linkedin](https://www.linkedin.com/in/%C5%82ukasz-czaja-7aa1b6233/)
 
 <!---
